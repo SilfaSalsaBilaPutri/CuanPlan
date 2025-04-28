@@ -44,6 +44,7 @@ Dirancang dengan UI sederhana namun modern, serta UX yang mudah digunakan untuk 
 - *Back End* (Android Studio)
 
 ---
+
 ## 🗂️ Manajemen Proyek
 
 Kami menggunakan **Trello** untuk mengelola tugas-tugas dan progres pengembangan aplikasi ini.
