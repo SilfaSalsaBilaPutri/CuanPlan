@@ -44,6 +44,14 @@ Dirancang dengan UI sederhana namun modern, serta UX yang mudah digunakan untuk 
 - *Back End* (Android Studio)
 
 ---
+## 🗂️ Manajemen Proyek
+
+Kami menggunakan **Trello** untuk mengelola tugas-tugas dan progres pengembangan aplikasi ini.
+
+📋 **Trello Board:**  
+[Trello Cuan Plan - Kelompok 7](https://trello.com/invite/b/67d91208c3cb54392f20531b/ATTIc1b9fef84f323b71437202962c9dd9e4EB85E1AD/cuanplan)
+
+---
 
 ## 📸 Screenshot (Coming Soon!)
 
